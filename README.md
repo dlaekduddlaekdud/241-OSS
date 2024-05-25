@@ -1,20 +1,19 @@
-# OSS2
-1. 이름, 학번
-   임다영 202202928
+# **2024 OSS**
+## 1. My info
+   한국외대 정보통신공학과 202202928 임다영
 
-2. 레포 용도에 대한 설명
-   study and assignment
+## 2. How to use 
+   study of 'Open Source SW'
 
-3. 이미지 추가
 ![img](img.png)
 
-4. 각 폴더에 대한 설명
-notes : A class note  
-data : Class material files
+## 3. files  
+notes : study note    
+data : files required for the lecture
 
-5. syllabus 표로 형성하기 및 각 주차에 대한 필기 파일 링크 걸기
+## 4. syllabus & file link
 
-     | 주차 | 강위범위 및 내용 |
+   | 주차 | 강위범위 및 내용 |
    | ------ | ------ |
    | 제 1 주 | [-](https://replit.com/@ekdud0112/OSS2#data/intro.txt) |
    | 제 2 주 | [w2.md](https://replit.com/@ekdud0112/OSS2#notes/w2.md) |
