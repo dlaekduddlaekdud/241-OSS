@@ -1,6 +1,6 @@
 # 인수가 1개인지 확인
 if [ "$#" -ne 1 ]; then
-  echo "사용법: $0 <유저이름>"
+  echo "$0 <username>"
   exit 1
 fi
 
