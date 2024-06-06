@@ -29,9 +29,9 @@ data : files required for the lecture
    | 제 9 주 | [w9.md](https://replit.com/@ekdud0112/OSS2#notes/w9.md) |
    | 제 10 주 | [w10.md](https://replit.com/@ekdud0112/OSS2#notes/w10.md) |
    | 제 11 주 | [w11.md](https://replit.com/@ekdud0112/OSS2#notes/w11.md) |
-   | 제 12 주 | [w12.md](https://replit.com/@ekdud0112/OSS2#notes/w12.md) |  
-   | 제 13 주 |  |  
-   | 제 14 주 |  |  
+   | 제 12 주 | [w12.md](https://replit.com/@ekdud0112/OSS2#notes/w12.md) | 
+   | 제 13 주 | [w13.md](https://replit.com/@ekdud0112/OSS2#notes/w13.md)|  
+   | 제 14 주 | [w14.md](https://replit.com/@ekdud0112/OSS2#notes/w14.md) | 
    | 제 15 주 | Final |  
 
 
