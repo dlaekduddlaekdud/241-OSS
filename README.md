@@ -33,7 +33,4 @@ data : files required for the lecture
    | 제 13 주 | [w13.md](https://replit.com/@ekdud0112/OSS2#notes/w13.md)|  
    | 제 14 주 | [w14.md](https://replit.com/@ekdud0112/OSS2#notes/w14.md) | 
    | 제 15 주 | Final |  
-
-
-
    
